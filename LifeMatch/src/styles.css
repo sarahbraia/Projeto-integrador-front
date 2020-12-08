@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+.background-img {
+    background-image:url("https://docs.google.com/uc?id=1CJBde0zh7ZLS8Jy4NLedQ8_prLdbiEEO");
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
